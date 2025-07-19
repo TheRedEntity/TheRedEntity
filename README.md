@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+
+  ## 🧭 &nbsp;About Me
+
+  - 📚 Information System student at UNAD.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱 I'm learning and specializing in **Python**, **Java**
+  
+  - 💬 Ask me about **any technology, and specially for Linux**.
+
+  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+
+  <br>
+  
+
+</div>
+
+
+<div align="center">
+
+  `I'm an unconditional lover of Linux and Cybersecurity.`
+  <br>
+
+  `=========================`
+  <br>
+
+  `ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ`
+</div>
+
